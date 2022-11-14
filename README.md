@@ -1,4 +1,4 @@
-<h1 align="center">My profile Michał Szajner</h1>
+<h1 align="center">Michał Szajner</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m1chals" alt="m1chals" /></a> </p>
 
 - 🔭 I’m currently working on **Laravel backend apps**
