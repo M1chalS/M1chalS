@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://testowe-portfolio-micael.netlify.app/](https://testowe-portfolio-micael.netlify.app/)
 
-- 💬 Ask me about **laravel, webapp,**
+- 💬 Ask me about **laravel, webapp, php**
 
 - 📫 How to reach me **michalszajner@wp.pl**
 
