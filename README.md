@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Webapp projects**
 
-- 🤝 I’m looking for help with **graphic design becouse my designer is lazy**
+- 🤝 I’m looking for help with **graphic design because my designer is lazy**
 
 - 👨‍💻 All of my projects are available at [https://testowe-portfolio-micael.netlify.app/](https://testowe-portfolio-micael.netlify.app/)
 
