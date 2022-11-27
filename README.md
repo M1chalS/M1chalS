@@ -1,20 +1,21 @@
-<h1 align="center">Michał Szajner👋</h1>
+<h1 align="center">Michał Szajner👨‍💻</h1>
 <h3 align="center">A beginner web developer from Poland</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m1chals" alt="m1chals" /></a> </p>
 
-- 🔭 I’m currently working on **Laravel backend apps**
+<h4 align="justify">Hi👋 I'm Michał 18yo programmer from Poland. Im passionate programer wanting to get a job in IT in the future. Im working on becoming fullstack web developer. I know Engilish very well. I'm hardworking and cooperative💪. I have good knowledge in SQL, PHP, Laravel and JavaScript. Im currently learning React and NodeJS which I would use to create my personal portfolio site📂. Consider contacting me via ✉️email <a href="mailto:michalszajner@wp.pl">michalszajner@wp.pl</a> or 📸Instagram <a href="https://www.instagram.com/michal.szajner/">@michal.szajner</a>. </h4> 
+  
+
+- 🔭 I’m currently working on **Laravel apps**
 
 - 🌱 I’m currently learning **ReactJS and NodeJS**
 
 - 👯 I’m looking to collaborate on **Webapp projects**
 
-- 🤝 I’m looking for help with **graphic design because my designer is lazy**
+- 🤝 I’m looking for help with **graphic design**
 
-- 👨‍💻 All of my projects are available at [https://testowe-portfolio-micael.netlify.app/](https://testowe-portfolio-micael.netlify.app/)
+- 👨‍💻 All of my projects are available at **WIP...**
 
-- 💬 Ask me about **laravel, webapp,php**
-
-- 📫 How to reach me **michalszajner@wp.pl**
+- 📫 Conntact me on instagram [@michal.szajner](https://www.instagram.com/michal.szajner/) and **michalszajner@wp.pl**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
