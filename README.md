@@ -2,20 +2,29 @@
 <h3 align="center">A beginner web developer from Poland</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy/"><img src="https://github-profile-trophy.vercel.app/?username=m1chals&column=4&margin-w=15&margin-h=15&theme=onestar" alt="m1chals" /></a> </p>
 
-<h4 align="justify">Hi👋 I'm Michał 18yo programmer from Poland. Im passionate programmer wanting to get a job in IT in the future. Im working on becoming fullstack web developer. I know english very well. I'm hardworking and cooperative💪. I have good knowledge in JavaScript, React, SQL and Laravel. Im currently learning about microservices. As a side project i want to create my personal portfolio site📂 using React and NodeJS. Consider contacting me via ✉️email <a href="mailto:michalszajner@wp.pl">michalszajner@wp.pl</a> or 📸Instagram <a href="https://www.instagram.com/michal.szajner/">@michal.szajner</a>. </h4> 
+<h4 align="justify">Hi👋 I'm Michał 18yo programmer from Poland. Im passionate programmer wanting to get a job in IT in the future. Im working on becoming fullstack web developer. I know english very well. I'm hardworking and cooperative💪. I have good knowledge in JavaScript, React, SQL and Laravel. Im currently learning about microservices. As a side project i want to create my personal portfolio site📂. Consider contacting me via ✉️email <a href="mailto:michalszajner@wp.pl">michalszajner@wp.pl</a> or 📸Instagram <a href="https://www.instagram.com/michal.szajner/">@michal.szajner</a>. </h4> 
   
 
-- 🔭 I’m currently working on **Microservice projects** and **smaller React apps**
+- 🔭 I’m currently working on **Fullstack apps** and **Mini frontend projects**
 
-- 🌱 I’m currently learning **ReactJS and NodeJS**
+- 🌱 I’m currently learning **NextJS, Astro and Svelte**
 
 - 👨‍💻 All of my projects are available at **WIP...**
 
 - 📫 Conntact me on instagram [@michal.szajner](https://www.instagram.com/michal.szajner/) and **michalszajner@wp.pl**.
 
+<h3 align="left">Some of my projects:</h3>
+
+- [Passwd Manager](https://passwd-manager.netlify.app/)
+- [Astro Pokedex](https://astro-pokes.netlify.app/)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/michal.szajner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="michal.szajner" height="30" width="40" /></a>
+<a href="https://instagram.com/michal.szajner" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="michal.szajner" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/micha%C5%82-szajner/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Michał Szajner" height="30" width="40" /></a>
+  
+  
 </p>
 
 <h3 align="left">Languages:</h3>
@@ -39,6 +48,8 @@
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
 <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <h3 align="left">Other:</h3>
-<p align="left">  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>    <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>      </p>
+<p align="left">  
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>   
+</p>
 
 <p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=m1chals&theme=dracula&date_format=j%20M%5B%20Y%5D" alt="m1chals" /></p>
