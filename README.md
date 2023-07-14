@@ -17,6 +17,7 @@
 
 - [Passwd Manager](https://passwd-manager.netlify.app/)
 - [Astro Pokedex](https://astro-pokes.netlify.app/)
+- [Sheets Simplified NPM Package](https://www.npmjs.com/package/sheets-simplified)
 
 
 <h3 align="left">Connect with me:</h3>
