@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at **WIP...**
 
-- 📫 Conntact me on instagram [@michal.szajner](https://www.instagram.com/michal.szajner/) and **michalszajner@wp.pl**.
+- 📫 Conntact me on instagram [@michal.szajner](https://www.instagram.com/michal.szajner/) and **kontakt@mszajner.cloud**.
 
 <h3 align="left">Some of my projects:</h3>
 
