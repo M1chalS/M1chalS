@@ -2,7 +2,11 @@
 <h3 align="center">A beginner web developer from Poland</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy/"><img src="https://github-profile-trophy.vercel.app/?username=m1chals&column=4&margin-w=15&margin-h=15&theme=onestar" alt="m1chals" /></a> </p>
 
-<h4 align="justify">Hi👋 I'm Michał 18yo programmer from Poland. Im passionate programmer wanting to get a job in IT in the future. Im working on becoming fullstack web developer. I know english very well. I'm hardworking and cooperative💪. I have good knowledge in JavaScript, React, SQL and Laravel. Im currently learning about microservices. As a side project i want to create my personal portfolio site📂. Consider contacting me via ✉️email <a href="mailto:michalszajner@wp.pl">kontakt@mszajner.cloud</a> or 📸Instagram <a href="https://www.instagram.com/michal.szajner/">@michal.szajner</a>. </h4> 
+<p align="justify">
+  Hi👋 I'm Michał 18yo programmer from Poland. Im passionate programmer wanting to get a job in IT in the future. Im working on becoming fullstack web developer. I know english very well. I'm hardworking and cooperative💪. I have good knowledge in JavaScript, React, SQL and Laravel. Im currently learning about microservices. As a side project i want to create my personal portfolio site📂. Consider contacting me via ✉️email 
+  <a href="mailto:michalszajner@wp.pl">kontakt@mszajner.cloud</a> 
+  or 📸Instagram <a href="https://www.instagram.com/michal.szajner/">@michal.szajner</a>. 
+</p>
   
 
 - 🔭 I’m currently working on **Fullstack apps** and **Mini frontend projects**
