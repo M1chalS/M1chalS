@@ -3,7 +3,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy/"><img src="https://github-profile-trophy.vercel.app/?username=m1chals&column=4&margin-w=15&margin-h=15&theme=onestar" alt="m1chals" /></a> </p>
 
 <p align="justify">
-  Hi👋 I'm Michał 20yo student from Poland. Im passionate programmer constantly learning new skills. Im working on becoming fullstack developer. I know english very well. I'm hardworking and cooperative💪. I have good knowledge in JavaScript, TypeScript, React, PHP, SQL and Laravel. Im currently learning Python🐍. Consider contacting me via ✉️email 
+  Hi👋 I'm Michał 21yo student from Poland. Im passionate programmer constantly learning new skills. Im working on becoming fullstack developer. I know english very well. I'm hardworking and cooperative💪. I have good knowledge in JavaScript, TypeScript, React, PHP, SQL and Laravel. Im currently learning Python🐍. Consider contacting me via ✉️email 
   <a href="mailto:michalszajner@wp.pl">kontakt@mszajner.cloud</a> 
   or 📸Instagram <a href="https://www.instagram.com/michal.szajner/">@michal.szajner</a>. 
 </p>
@@ -51,7 +51,7 @@
 <p align="left">Backend:</p>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="laravel" width="40" height="40"/> </a>
-<a href="https://strapi.io/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/S/strapi-icon-logo-2E03188067-seeklogo.com.png" alt="StrapiCMS" width="40" height="40"/> </a>
+<a href="https://strapi.io/" target="_blank" rel="noreferrer"> <img src="https://assets.super.so/e7c0f16c-8bd3-4c76-8075-4c86f986e1b2/uploads/favicon/9c68ae10-0a8a-4e3f-9084-3625b19df9cb.png" alt="StrapiCMS" width="40" height="40"/> </a>
 <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
